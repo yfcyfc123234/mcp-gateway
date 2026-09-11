@@ -69,3 +69,7 @@ scratchpad_*/
 # `git add -A` sweeps whatever happens to be lying about into someone else's
 # commit.
 .review-*
+
+# Local fork notes / Windows tooling junctions (not upstream)
+LOCAL-FORK.md
+tooling/
